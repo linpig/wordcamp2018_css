@@ -3059,20 +3059,20 @@ body,h1,h2,h3,h4,h5,h6,span,a,div,strong,p {
 }
 
 .site-content p {
-	font-size: 16px !important;
-	color: #484b50 !important;
+	font-size: 16px;
+	color: #484b50;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	color: #76797c !important;
+	color: #76797c;
 }
 
 h1 {
-	font-size: 35px !important;
+	font-size: 35px;
 }
 
 h2 {
-	font-size: 1.6em !important;
+	font-size: 1.6em;
 }
 
 .cc--var-color-brand-primary:after {
@@ -5692,10 +5692,6 @@ div.googlemaps iframe {
 	display: block;
 	margin: 0 auto;
 	max-height: 8.75rem;
-}
-
-.wcorg-sponsor .wcorg-sponsor-description p,.wcorg-sponsor h3 {
-	display: none;
 }
 
 .wcorg-sponsor a {
